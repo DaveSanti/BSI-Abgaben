@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TipCalculator"
+rootProject.name = "CustomTip"
 include(":app")
  
