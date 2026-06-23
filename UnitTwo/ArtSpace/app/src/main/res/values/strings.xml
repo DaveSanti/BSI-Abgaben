@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">ArtSpace</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="artwork_year">%1$d</string>
+    <string name="artwork_title_01">Bäume im Wald</string>
+    <string name="artwork_title_02">Schwarz Weiß Leben</string>
+    <string name="artwork_title_03">Sonnenuntergang</string>
+    <string name="artwork_title_04">Korallenriff</string>
+    <string name="artwork_title_05">Blick aufs Meer</string>
+    <string name="artwork_title_06">Bank im Wald</string>
+    <string name="artwork_title_07">Blick ins Laub</string>
+    <string name="artwork_title_08">Allee von Bäumen</string>
+    <string name="artwork_title_09">Sonne durch Blätter</string>
+    <string name="artwork_title_10">Tag am See</string>
 </resources>

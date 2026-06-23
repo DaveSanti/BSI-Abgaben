@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">BusinessCard</string>
+    <string name="full_name">BSI Workforce</string>
+    <string name="job_title">Android Developer</string>
+    <string name="phone_number">+49 170 1234567</string>
+    <string name="social_handle">@bsi.idh</string>
+    <string name="email_address">workforce@BSI.com</string>
+    <string name="android_logo_description">Android logo</string>
+    <string name="phone_icon_description">Phone number</string>
+    <string name="social_icon_description">Social media profile</string>
+    <string name="email_icon_description">Email address</string>
 </resources>
