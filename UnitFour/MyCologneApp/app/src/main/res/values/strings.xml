@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Köln Karte</string>
+    <string name="back_button">Zurück</string>
+    <string name="categories_title">Köln entdecken</string>
+    <string name="map_title">Karte von Köln</string>
+    <string name="all_places">Alle Orte</string>
+    <string name="details">Details</string>
+    <string name="route">Route</string>
+    <string name="district">Veedel</string>
+    <string name="best_for">Gut für</string>
+</resources>
